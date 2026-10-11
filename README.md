@@ -908,7 +908,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">✦</div>
-                <span class="card-number">06 / 08</span>
+                <span class="card-number">06 / 10</span>
             </div>
 
             <h3>المساعد الرقمي Gemalot</h3>
@@ -932,7 +932,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">✉️</div>
-                <span class="card-number">07 / 08</span>
+                <span class="card-number">07 / 10</span>
             </div>
 
             <h3>البريد الإلكتروني Eisen Mail</h3>
@@ -956,7 +956,7 @@ footer p {
 
     <div class="card-top">
         <div class="service-icon">☁️</div>
-        <span class="card-number">08 / 08</span>
+        <span class="card-number">08 / 10</span>
     </div>
 
     <h3>التخزين السحابي Bingot</h3>
@@ -974,6 +974,52 @@ footer p {
     </a>
 
 </article>
+
+ <!-- 9: التقويم -->
+        <article class="service-card">
+
+            <div class="card-top">
+                <div class="service-icon">🔎</div>
+                <span class="card-number">09 / 09</span>
+            </div>
+
+            <h3>التقويم </h3>
+
+            <p>
+                توفر الإسلامية  تطبيق تقويم أيضا 
+            </p>
+
+            <a class="service-link"
+               href="https://mohamedmadoui5195.github.io/Eisen.Calendar/">
+                <span>الانتقال إلى  Eisen Calandar</span>
+                <span class="arrow">←</span>
+            </a>
+
+        </article>
+
+<!-- 9: التقويم -->
+        <article class="service-card">
+
+            <div class="card-top">
+                <div class="service-icon">🔎</div>
+                <span class="card-number">09 / 10</span>
+            </div>
+
+            <h3>التقويم </h3>
+
+            <p>
+                توفر الإسلامية تطبيق ميت وإجتماعات
+            </p>
+
+            <a class="service-link"
+               href="https://mohamedmadoui5195.github.io/Eisen.metting/">
+                <span>الانتقال إلى  Eisen Meeting</span>
+                <span class="arrow">←</span>
+            </a>
+
+        </article>
+
+
 
 </div>
 </section>
