@@ -1002,7 +1002,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">🔎</div>
-                <span class="card-number">09 / 10</span>
+                <span class="card-number">10 / 10</span>
             </div>
 
             <h3>التقويم </h3>
