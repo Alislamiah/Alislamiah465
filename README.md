@@ -787,7 +787,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">📚</div>
-                <span class="card-number">01 / 08</span>
+                <span class="card-number">01 / 10</span>
             </div>
 
             <h3>منصة تعليمية</h3>
@@ -811,7 +811,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">🔎</div>
-                <span class="card-number">02 / 08</span>
+                <span class="card-number">02 / 10</span>
             </div>
 
             <h3>محرك بحث</h3>
@@ -835,7 +835,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">🌐</div>
-                <span class="card-number">03 / 08</span>
+                <span class="card-number">03 / 10</span>
             </div>
 
             <h3>متصفح Alislamiah Bing</h3>
@@ -859,7 +859,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">▶️</div>
-                <span class="card-number">04 / 08</span>
+                <span class="card-number">04 / 10</span>
             </div>
 
             <h3>منصة فيديوهات</h3>
@@ -884,7 +884,7 @@ footer p {
 
             <div class="card-top">
                 <div class="service-icon">🗺️</div>
-                <span class="card-number">05 / 08</span>
+                <span class="card-number">05 / 10</span>
             </div>
 
             <h3>تطبيق الخرائط</h3>
