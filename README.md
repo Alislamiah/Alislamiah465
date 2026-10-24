@@ -777,7 +777,7 @@ footer p {
     <div class="section-heading">
         <div class="eyebrow">OUR DIGITAL ECOSYSTEM</div>
         <h2>مواقعنا وخدماتنا وتطبيقاتنا</h2>
-        <p>ثماني خدمات رقمية في بوابة واحدة</p>
+        <p>عشرة خدمات رقمية في بوابة واحدة</p>
     </div>
 
     <div class="services-grid">
@@ -799,7 +799,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Alislamiah-_net/">
+               href="https://Alislamiah.github.io/Alislamiah-_net/">
                 <span>الانتقال إلى Alislamiah-_net</span>
                 <span class="arrow">←</span>
             </a>
@@ -823,7 +823,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Alislamiah-AI/">
+               href="https://Alislamiah.github.io/Alislamiah-AI/">
                 <span>الانتقال إلى Alislamiah AI</span>
                 <span class="arrow">←</span>
             </a>
@@ -847,7 +847,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Alislamiah/">
+               href="https://Alislamiah.github.io/Alislamiah/">
                 <span>الانتقال إلى Alislamiah Bing</span>
                 <span class="arrow">←</span>
             </a>
@@ -872,7 +872,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Alislamiah-Tube/">
+               href="https://Alislamiah.github.io/Alislamiah-Tube/">
                 <span>الانتقال إلى Alislamiah Tube</span>
                 <span class="arrow">←</span>
             </a>
@@ -896,7 +896,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Alislamiah-Maps/">
+               href="https://Alislamiah.github.io/Alislamiah-Maps/">
                 <span>الانتقال إلى Alislamiah Maps</span>
                 <span class="arrow">←</span>
             </a>
@@ -920,7 +920,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Gemalot/">
+               href="https://Alislamiah.github.io/Gemalot/">
                 <span>الانتقال إلى Gemalot</span>
                 <span class="arrow">←</span>
             </a>
@@ -944,7 +944,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Eisen-mail/">
+               href="https://Alislamiah.github.io/Eisen-mail/">
                 <span>الانتقال إلى Eisen Mail</span>
                 <span class="arrow">←</span>
             </a>
@@ -968,7 +968,7 @@ footer p {
     </p>
 
     <a class="service-link"
-       href="https://mohamedmadoui5195.github.io/Bingot/">
+       href="https://Alislamiah.github.io/Bingot/">
         <span>الانتقال إلى Bingot</span>
         <span class="arrow">←</span>
     </a>
@@ -990,7 +990,7 @@ footer p {
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Eisen.Calendar/">
+               href="https://Alislamiah.github.io/Eisen.Calendar/">
                 <span>الانتقال إلى  Eisen Calandar</span>
                 <span class="arrow">←</span>
             </a>
@@ -1005,14 +1005,14 @@ footer p {
                 <span class="card-number">10 / 10</span>
             </div>
 
-            <h3>التقويم </h3>
+            <h3>التخزين السحابي</h3>
 
             <p>
                 توفر الإسلامية تطبيق ميت وإجتماعات
             </p>
 
             <a class="service-link"
-               href="https://mohamedmadoui5195.github.io/Eisen.metting/">
+               href="https://Alislamiah.github.io/Eisen.metting/">
                 <span>الانتقال إلى  Eisen Meeting</span>
                 <span class="arrow">←</span>
             </a>
