@@ -697,12 +697,12 @@ footer p {
 
     <div class="menu-label">روابط شبكة الإسلامية</div>
 
-    <a href="https://mohamedmadoui5195.github.io/Alislamiah-services/">
+    <a href="https://Alislamiah.github.io/Alislamiah-services/">
         <span class="menu-icon">🌐</span>
         <span>خدمات الإسلامية</span>
     </a>
 
-    <a href="https://mohamedmadoui5195.github.io/Alislamiah-_net/">
+    <a href="https://Alislamiah.github.io/Alislamiah-_net/">
         <span class="menu-icon">ℹ️</span>
         <span>عن Alislamiah</span>
     </a>
@@ -1055,8 +1055,11 @@ footer p {
 
         <a href="#about">عن الإسلامية</a>
 
-        <a href="https://mohamedmadoui5195.github.io/Alislamiah-services/">
+        <a href="https://Alislamiah.github.io/Alislamiah-services/">
             خدمات الإسلامية
+        </a>
+<a href="https://alislamiah.github.io/Alislamiah-For-Developpers/">
+           خدمات الإسلامية للمطورين 
         </a>
 
         <a href="#services">جميع التطبيقات</a>
